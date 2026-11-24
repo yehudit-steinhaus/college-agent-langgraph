@@ -1,0 +1,11 @@
+langgraph>=1.0
+langchain>=1.0
+langchain-openai>=1.0
+# אם משתמשים ב-Gemini במקום OpenAI:
+# langchain-google-genai
+langsmith>=0.4
+python-dotenv
+streamlit
+pydantic>=2
+# בשביל LangGraph Studio (אופציונלי, לצילומי מסך של הגרף):
+# langgraph-cli[inmem]
